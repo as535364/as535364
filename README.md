@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **RoR**
 
-- 📝 I regulary write articles on [ujoj.cc](ujoj.cc)
+- 📝 I regulary write articles on [https://ujoj.cc](https://ujoj.cc)
 
 - 📫 How to reach me **as535364@ujoj.cc**
 
