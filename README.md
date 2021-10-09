@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://ujoj.cc](https://ujoj.cc)
 
-- 📫 How to reach me **a6194315535@gmail.com**
+- 📫 How to reach me [Telegram](http://t.me/as535364)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
