@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 📝 I regularly write articles on [https://ujoj.cc](https://blog.ujoj.cc)
+- 📝 I regularly write articles on [https://blog.ujoj.cc](https://blog.ujoj.cc)
 
 - 📫 How to reach me [Telegram](http://t.me/as535364)
 
