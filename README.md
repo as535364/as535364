@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Sandbox](https://github.com/Normal-OJ/Sandbox)
 
-- 🌱 I’m currently learning **RoR**
+- 🌱 I’m currently learning **Golang, RoR**
 
 - 📝 I regularly write articles on [https://blog.ujoj.cc](https://blog.ujoj.cc)
 
