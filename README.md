@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **me@ujoj.cc**
 
-- 📄 Know about my experiences [https://blog.ujoj.cc/resume](https://blog.ujoj.cc/resume)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/as535364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="as535364" height="30" width="40" /></a>
