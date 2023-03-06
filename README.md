@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Rust, RoR**
 
-- 📝 I regularly write articles on [https://blog.ujoj.cc](https://blog.ujoj.cc)
-
 - 📫 How to reach me **me@ujoj.cc**
 
 - 📄 Know about my experiences [https://blog.ujoj.cc/resume](https://blog.ujoj.cc/resume)
