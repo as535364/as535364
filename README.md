@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **me@ujoj.cc**
 
-- 📄 Know about my experiences [https://ujoj.cc/resume](https://blog.ujoj.cc/resume)
+- 📄 Know about my experiences [https://ujoj.cc/resume](https://ujoj.cc/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
