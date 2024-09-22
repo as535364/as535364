@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siao Yu-Jie</h1>
+<h1 align="center">Hi 👋, I'm Siao, Yu-Jie</h1>
 <h3 align="center">A passionate CSIE student from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=as535364&label=Profile%20views&color=0e75b6&style=flat" alt="as535364" /> </p>
